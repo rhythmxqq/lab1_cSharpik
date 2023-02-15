@@ -1,0 +1,13 @@
+/Users/mak/Projects/lab1/lab1/bin/Debug/netcoreapp3.1/lab1.deps.json
+/Users/mak/Projects/lab1/lab1/bin/Debug/netcoreapp3.1/lab1.runtimeconfig.json
+/Users/mak/Projects/lab1/lab1/bin/Debug/netcoreapp3.1/lab1.runtimeconfig.dev.json
+/Users/mak/Projects/lab1/lab1/bin/Debug/netcoreapp3.1/lab1.dll
+/Users/mak/Projects/lab1/lab1/bin/Debug/netcoreapp3.1/lab1.pdb
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.AssemblyInfo.cs
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.dll
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.pdb
+/Users/mak/Projects/lab1/lab1/obj/Debug/netcoreapp3.1/lab1.genruntimeconfig.cache
